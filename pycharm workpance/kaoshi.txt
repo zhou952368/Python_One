@@ -1,0 +1,3 @@
+{'name': 'meng', 'mush': '89', 'english': '88', 'computer': '87'}
+{'name': 'ting', 'mush': '85', 'english': '86', 'computer': '84'}
+{'name': '风', 'mush': '84', 'english': '89', 'computer': '81'}
